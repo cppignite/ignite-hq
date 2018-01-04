@@ -1,0 +1,54 @@
++ What is igniteCS?
+  igniteCS is a Google partnered educational outreach organization which
+  started as a program to provide computer science to kids that do not have 
+  access to it with the main purpose of increasing multicultural diversity
+  to the field.
+
+  + Now we have developed into a much more expansive organization with multiple
+  approaches to the problem of CS education, or lack thereof.
+
++ What we do
+  When ignite first started, what we did is that we taught android development 
+  through scratch to the middle and high school level but that's it.
+
+  Currently we are working on a pathway system for students so they can pursue
+  computer science every single year from the middle to high school level.
+
+  (Show Graphic)
+  (Show elementary school flyer)
+
+  + What we discovered
+  2 problems.
+  1.) Lack of CS teachers
+  2.) Shitty CS teachers
+  Computer science does not require math. Computer Science can be taught young.
+  Kids like building stuff and they want to get involved because they grew up
+  with computers.
+  Show retro 90's stuff to contrast 
+
++ how we conduct club activities 
+  + Show Tree
+  + Show github
++ Goals of expansion
+  + Include different majors
+  + Include interdisciplinary
+  + Include more lessons 
+  + Cool Projects, HvZ and Parking
+
++ Meet the team
++ Why teach?
+  Progression
+  makes you a better student
+  You already know the material. if not, we'll teach you
+  + Google perks
+  Mentors
+  Free Swag
+
++ Science Carnival
+  Angela water bottles
+  sunglasses
+
++ Teaching Philo
++ Tired of getting shit on
++ Hackathons
++ Questions? Fill out form
