@@ -11,6 +11,11 @@
   When ignite first started, what we did is that we taught android development 
   through scratch to the middle and high school level but that's it.
 
+  (Show photos) 
+
+  High School Programming Competition
+  $1k northrop grumman
+
   Currently we are working on a pathway system for students so they can pursue
   computer science every single year from the middle to high school level.
 
