@@ -1,3 +1,7 @@
++ Show News articles of how hot CS education is rn.
+  Start off with question, if you had the chance to give your high school
+  self advice, what would it be?
+
 + What is igniteCS?
   igniteCS is a Google partnered educational outreach organization which
   started as a program to provide computer science to kids that do not have 
@@ -30,6 +34,7 @@
   Kids like building stuff and they want to get involved because they grew up
   with computers.
   Show retro 90's stuff to contrast 
+  Parents and Teachers wanting to pay for our program
 
 + how we conduct club activities 
   + Show Tree
